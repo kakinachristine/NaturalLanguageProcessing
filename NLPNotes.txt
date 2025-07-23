@@ -1,0 +1,24 @@
+Natural Language Preprocessing:
+
+Content:
+#Text Vectorization and pre-processing:
+    VECTORIZATION
+    -Bag of words
+    -Text Frequency and Inverse document frequency
+
+    PRE-PROCESSING
+    -Natural Language Preprocessing
+    -Preprocessing in NLP
+    -Tokenization: converts a single sentence/ text into single words
+    -Lowercasing: convert all words to lowercase
+    -Base form of the word: Convert words to single base form,finds unique word in words that share a common meaning(jump,jumped,jumping,jumps to jump) uses: stemming,lemmatization
+    -stopword removal: removing common words that are for english like this, she , the e.t.c. This words are not important hence removal
+    -Punctuation removal
+    -Remove contraction e.g. from can't to cannot
+
+
+#Movie Recommendation
+    -
+#Text embeddings
+#Text Classification
+#Text Summarization
