@@ -2,9 +2,11 @@ Natural Language Preprocessing:
 
 Content:
 #Text Vectorization and pre-processing:
-    ADVANCED VECTORIZATION
+     VECTORIZATION(Frequency Based)
     -Bag of words(Simple frequency,Relative frequency,Text Frequency and Inverse document frequency)
     -Words may be unigrams/N-grams with N being 2,3,4.......
+    ADVANCED VECTORIZATION
+    -Text/word Embedding
 
     PRE-PROCESSING
     -Natural Language Preprocessing
@@ -20,5 +22,12 @@ Content:
 #Movie Recommendation
     -
 #Text embeddings
+- this uses text relationships and semantics to classify words instead of frequency
+- We  have CBOW nad Skip-gram
+- Use of techniques like word2Vec, GloVe(global vectors for word representation),Bert(Bi-directional encoder
+    representation from transformers) and FastText
+-GloVe and FastText are pretrained models
+
+
 #Text Classification
 #Text Summarization
