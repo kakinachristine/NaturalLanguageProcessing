@@ -18,9 +18,6 @@ Content:
     -Punctuation removal
     -Remove contraction e.g. from can't to cannot
 
-
-#Movie Recommendation
-    -
 #Text embeddings
 - this uses text relationships and semantics to classify words instead of frequency
 - We  have CBOW nad Skip-gram
@@ -30,4 +27,11 @@ Content:
 
 
 #Text Classification
+-Used to assign a class to a given text
+
+
 #Text Summarization
+
+
+#Movie Recommendation
+    -
