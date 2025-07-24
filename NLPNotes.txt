@@ -2,9 +2,9 @@ Natural Language Preprocessing:
 
 Content:
 #Text Vectorization and pre-processing:
-    VECTORIZATION
-    -Bag of words
-    -Text Frequency and Inverse document frequency
+    ADVANCED VECTORIZATION
+    -Bag of words(Simple frequency,Relative frequency,Text Frequency and Inverse document frequency)
+    -Words may be unigrams/N-grams with N being 2,3,4.......
 
     PRE-PROCESSING
     -Natural Language Preprocessing
