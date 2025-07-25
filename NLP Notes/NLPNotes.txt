@@ -39,4 +39,9 @@ Content:
 
 
 #Movie Recommendation
-    -
+-Focus is on purpose,methods,use-cases and applications
+-Methods of movie recommendation system:
+    >Demographic filtering -generalized filter eg age group, gender, location etc
+    >Content based filtering -based on features of the movies eg directors, genre etc
+    >Collaborative filtering - other users with similar interests
+-
