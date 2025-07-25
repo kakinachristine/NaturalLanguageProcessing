@@ -27,10 +27,15 @@ Content:
 
 
 #Text Classification
--Used to assign a class to a given text
+-Used to assign a class to a given text for separation or better analyzation
 
 
 #Text Summarization
+-Creating a short, accurate,fluent summary of long text documents
+-Types:
+    -Extractive Methods: the steps are; Tokenization--> get word_frequency--> get normalized_word_frequency-->sentence tokenization -->
+                         -->calculate score for each sentence--> rank the sentences
+    -Abstractive Methods:
 
 
 #Movie Recommendation
